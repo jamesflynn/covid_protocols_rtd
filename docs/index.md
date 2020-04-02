@@ -4,7 +4,7 @@ height="0.9047298775153105in"}
 
 **Brigham and Women's Hospital**
 
-**COVID-19 Critical Care Clinical Guidelines**
+**COVID-19 Clinical Guidelines**
 
 **This document is a work in progress. We have much to learn.**
 
@@ -2384,7 +2384,7 @@ is a helpful tutorial.
 
 ![A screenshot of a cell phone Description automatically
 generated](.//media/image7.png){width="6.5in"
-height="4.183333333333334in"}
+height="4.163194444444445in"}
 
 Septic Shock and Secondary Infections 
 -------------------------------------
@@ -3991,7 +3991,7 @@ Triage
 
 ### Stages of crisis
 
-### ![](.//media/image8.png){width="5.711608705161855in" height="3.4114588801399823in"}
+### ![](.//media/image8.png){width="6.360962379702537in" height="3.807292213473316in"}
 
 ([[Christian et al. 2014]{.underline}](https://www.ncbi.nlm.nih.gov/pubmed/25144591))
 -------------------------------------------------------------------------------------

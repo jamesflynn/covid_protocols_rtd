@@ -2,7 +2,7 @@
 
 **Brigham and Women’s Hospital**
 
-**COVID-19 Critical Care Clinical Guidelines**
+**COVID-19 Clinical Guidelines**
 
 **This document is a work in progress. We have much to learn.**
 
@@ -4355,7 +4355,7 @@ RASS = Richmond Agitation and Sedation Scale
    :height: 5.02778in
 .. |A screenshot of a cell phone Description automatically generated| image:: .//media/image7.png
    :width: 6.5in
-   :height: 4.18333in
+   :height: 4.16319in
 .. |image7| image:: .//media/image8.png
-   :width: 5.71161in
-   :height: 3.41146in
+   :width: 6.36096in
+   :height: 3.80729in
